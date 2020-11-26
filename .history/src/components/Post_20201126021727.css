@@ -1,0 +1,18 @@
+.post {
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.postPhotoImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.postTitle {
+  margin-bottom: 10px;
+}
+
+.postDesc {
+}

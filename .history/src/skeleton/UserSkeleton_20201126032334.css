@@ -1,0 +1,8 @@
+.userSkeleton {
+    display: flex;
+    align-items: center;
+  }
+  
+  .userSkeletonRight{
+      width: 100%;
+  }

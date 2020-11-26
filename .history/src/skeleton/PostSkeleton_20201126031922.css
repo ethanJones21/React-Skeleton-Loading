@@ -1,0 +1,8 @@
+.postSkeleton {
+  display: flex;
+  align-items: center;
+}
+
+.postSkeletonRight{
+    width: 100%;
+}
